@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Srinivasan Dhamodharan
 - 👀 I’m interested in Computer Vision, Machine Vision, Robotics, Ai
 - 🌱 I’m currently learning  DL/Gen-Ai
-- 💞️ I’m looking to collaborate on Comput
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on projects involving Computer vision and robotics
+- 📫 How to reach me cnivasand@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: ----
 
 <!---
 cni7/cni7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
