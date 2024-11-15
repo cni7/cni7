@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Srinivasan Dhamodharan
-- 👀 I’m interested in Computer Vision, Machine Vision, Robotics, Ai
+- 👀 I’m interested in Computer Vision, Machine Vision, Robotics, AI
 - 🌱 I’m currently learning  DL/Gen-AI
 - 💞️ I’m looking to collaborate on projects involving Computer vision and robotics
 - 📫 How to reach me cnivasand@gmail.com
